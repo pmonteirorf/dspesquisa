@@ -11,4 +11,11 @@
 
 ## Projeto implantado no Heroku ##
 - [GET Records](https://sds1-priscilla.herokuapp.com/records)
+```
+https://sds1-priscilla.herokuapp.com/records
+```
+
 - [GET Games](https://sds1-priscilla.herokuapp.com/games)
+```
+https://sds1-priscilla.herokuapp.com/games
+```
