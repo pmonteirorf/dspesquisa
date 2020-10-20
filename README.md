@@ -9,6 +9,6 @@
 ## Banco de Dados
 * H2
 
-** Projeto implantado no Heroku **
-[GET Records](https://sds1-priscilla.herokuapp.com/records)
-[GET Games](https://sds1-priscilla.herokuapp.com/games)
+## Projeto implantado no Heroku ##
+- [GET Records](https://sds1-priscilla.herokuapp.com/records)
+- [GET Games](https://sds1-priscilla.herokuapp.com/games)
